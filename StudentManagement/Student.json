@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "subjects": [
+        {
+          "name": "Math",
+          "score": 90.0
+        },
+        {
+          "name": "Physics",
+          "score": 85.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "subjects": [
+        {
+          "name": "Biology",
+          "score": 88.0
+        },
+        {
+          "name": "Chemistry",
+          "score": 92.3
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Quan",
+      "subjects": [
+        {
+          "name": "Toan",
+          "score": 2.0
+        },
+        {
+          "name": "Van",
+          "score": 3.0
+        }
+      ]
+    }
+  ]
+}
